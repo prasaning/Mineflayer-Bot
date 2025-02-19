@@ -1,7 +1,7 @@
 # Mineflayer-Bot  
 
 
-This code was made when minecraft botting was at it's peak.  
+This code was made when minecraft botting was getting more popular again.  
 The bot uses sessions to login to accounts and join whatever server you want.  
 
 sessiongetter.py  
