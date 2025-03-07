@@ -12,6 +12,6 @@ sessiongetter.py
 > accounts needs to be in email:password format in `accounts.txt`
 
 
-index.py
+index.js
 > change the guild ids in the file to your guild
 > add a discord bot token to the file aswell
